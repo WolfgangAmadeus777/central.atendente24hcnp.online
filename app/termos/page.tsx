@@ -1,7 +1,7 @@
 import Link from "next/link"
 
 const COMPANY = {
-  name: "Agr Consultoria e Corretora de Seguros LTDA",
+  name: "Agrelli Corretora de Seguros LTDA",
   cnpj: "48.255.060/0001-81",
   address: "Avenida Presidente Juscelino Kubitschek de Oliveira 5000 Conj 512/435 Torre 01, Iguatemi, São José do Rio Preto SP, CEP 15093-340",
   email: "atendimento@agrelliseguros.com.br",
@@ -9,7 +9,7 @@ const COMPANY = {
 }
 
 export const metadata = {
-  title: "Termos de Uso — Agr Consultoria",
+  title: "Termos de Uso — Agrelli Seguros",
 }
 
 export default function TermosPage() {
