@@ -6,10 +6,10 @@ import { useEffect, useState } from "react"
 
 const COMPANY = {
   name: "Agr Consultoria e Corretora de Seguros LTDA",
-  cnpj: "51.712.936/0001-86",
-  address: "Avenida Pedro Ludovico, 505 – Quadra 116, Lote 1-18, Apt 301, Cond. Anhembi – Setor Sudoeste, Goiânia/GO – CEP 74305-520",
-  email: "agrseguros.corretora@gmail.com",
-  phone: "(62) 99697-6970",
+  cnpj: "48.255.060/0001-81",
+  address: "Avenida Presidente Juscelino Kubitschek de Oliveira 5000 Conj 512/435 Torre 01, Iguatemi, São José do Rio Preto SP, CEP 15093-340",
+  email: "atendimento@agrelliseguros.com.br",
+  phone: "(17) 98111-5558",
 }
 
 export default function PresellPage() {
